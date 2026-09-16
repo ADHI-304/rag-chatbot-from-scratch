@@ -1,0 +1,9 @@
+Python is a popular programming language used in artificial intelligence and machine learning.
+
+Machine learning allows computers to learn patterns from data.
+
+Deep learning is a branch of machine learning that uses neural networks.
+
+Natural language processing helps computers understand human language.
+
+RAG stands for Retrieval-Augmented Generation. It combines document retrieval with language generation.
