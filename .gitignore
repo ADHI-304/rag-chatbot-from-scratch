@@ -4,3 +4,4 @@ __pycache__/
 .env
 .cache/
 chroma_learning_db/
+chroma_metadata_db/
