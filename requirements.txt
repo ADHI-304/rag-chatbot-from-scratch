@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain-huggingface
+langchain-chroma
+langchain-ollama
+chromadb
+sentence-transformers
+ollama
