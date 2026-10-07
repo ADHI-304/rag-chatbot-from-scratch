@@ -5,3 +5,4 @@ __pycache__/
 .cache/
 chroma_learning_db/
 chroma_metadata_db/
+*.save
